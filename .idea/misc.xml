@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/AndroidProjects/jetpack/BlockchainProject/app/src/main/res/layout/activity_main.xml" value="0.21041666666666667" />
+        <entry key="..\:/Projects/AndroidProjects/jetpack/BlockchainProject/app/src/main/res/layout/chat_arch.xml" value="0.33" />
+        <entry key="..\:/Projects/AndroidProjects/jetpack/BlockchainProject/app/src/main/res/layout/chat_creator_fragment.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidProjects/jetpack/BlockchainProject/app/src/main/res/layout/detail_screen_fragment.xml" value="0.22447916666666667" />
+        <entry key="..\:/Projects/AndroidProjects/jetpack/BlockchainProject/app/src/main/res/layout/home_fragment.xml" value="0.22447916666666667" />
+        <entry key="..\:/Projects/AndroidProjects/jetpack/BlockchainProject/app/src/main/res/layout/login_screen_fragment.xml" value="0.21041666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

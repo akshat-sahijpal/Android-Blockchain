@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Blockchain Project</string>
+    <string name="username">username</string>
+    <string name="your_message">Write Your Message Here!!!</string>
+</resources>
